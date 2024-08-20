@@ -1,0 +1,13 @@
+# Default ignored files
+/.idea/
+/accounts/target
+/cards/target
+/configserver/target
+/loans/target
+/eurekaserver/target
+/accounts/.mvn/mvn-wrapper.jar
+/cards/.mvn/mvn-wrapper.jar
+/configserver/.mvn/mvn-wrapper.jar
+/loans/.mvn/mvn-wrapper.jar
+/eurekaserver/.mvn/mvn-wrapper.jar
+/gatewayserver/.mvn/mvn-wrapper.jar
